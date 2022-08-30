@@ -1,0 +1,479 @@
+Feature Descriptions: (missing values are NaN)
+
+SEQN: Respondent Sequence Number
+
+AGQ030: During the past 12 months, {have you/has SP} had an episode of hay fever?   (From medical conditions dataset)
+	1	Yes
+	2	No
+	7	Refused
+	9	Don't Know
+
+ALQ130: In the past 12 months, on those days that {you/SP} drank alcoholic beverages, on the average, how many drinks did {you/he/she} have?
+	1 to 25	Range of Values (of alcoholics drinks)
+	777	Refused
+	999	Don't Know
+
+ALQ151 - Ever have 4/5 or more drinks every day?
+	1	Yes
+	2	No
+	7	Refused
+	9	Don't know
+
+HSQ590 - Blood ever tested for HIV virus? (Current Health Status dataset)
+	1	Yes
+	2	No
+	7	Refused
+	9	Don't know
+
+IMQ011 - Received Hepatitis A Virus
+	1	Yes, at least 2 doses
+	2	Less than 2 doses
+	3	No Doses
+	7	Refused
+	9	Don't know
+
+IMQ020 - Received Hepatitis B 3 dose series
+	1	Yes at least 3 doses
+	2	Less than 3 doses	
+	3	No doses	
+	7	Refused
+	9	Don't know
+
+IMQ070 - Received HPV vaccine
+	1	Yes
+	2	No
+	7	Refused
+	9	Don't know
+
+IMQ090 - Age first dose HPV
+	5-54	Range of Values
+	777	Refused
+	999	Don't know
+
+MCD093 - Year receive blood transfusion
+	1	Before 1972
+	2	1972 - 1991
+	3	1992 to present
+	7	Refused
+	9	Don't know
+
+MCQ010 - Ever been told you have asthma
+	1	Yes
+	2	No
+	7	Refused
+	9	Don't know
+
+MCQ025 - Age when first had asthma
+	1-78	Range of values
+	80	80 years or older
+	77777	Refused
+	99999	Don't know
+
+MCQ035 - Still have asthma
+	1	Yes
+	2	No
+	7	Refused
+	9	Don't know
+
+MCQ040 - Had asthma attack in past year
+	1	Yes
+	2	No
+	7	Refused
+	9	Don't know
+
+MCQ050 - Emergency care visit for asthma/past yr
+	1	Yes
+	2	No
+	7	Refused
+	9	Don't know
+
+MCQ053 - Taking treatment for anemia/past 3 mos
+	1	Yes
+	2	No
+	7	Refused
+	9	Don't know
+
+MCQ080 - Doctor ever said you were overweight
+	1	Yes
+	2	No
+	7	Refused
+	9	Don't know
+
+MCQ092 - Ever receive blood transfusion
+	1	Yes
+	2	No
+	7	Refused
+	9	Don't know
+
+MCQ149 - Menstrual periods started yet?
+	1	Yes
+	2	No
+	7	Refused
+	9	Don't know
+
+MCQ151 - Age at first menstrual period (a lot of missing values, only asked 8y-11y females)
+	9 to 11	Range of Values
+	77	Refused
+	99	Don't know
+
+MCQ160A - Doctor ever said you had arthritis
+	1	Yes
+	2	No
+	7	Refused
+	9	Don't know
+
+MCQ160B - Ever told had congestive heart failure
+	1	Yes
+	2	No
+	7	Refused
+	9	Don't know
+
+MCQ160C - Ever told you had coronary heart disease
+	1	Yes
+	2	No
+	7	Refused
+	9	Don't know
+
+MCQ160D - Ever told you had angina/angina pectoris
+	1	Yes
+	2	No
+	7	Refused
+	9	Don't know
+
+MCQ160E - Ever told you had heart attack
+	1	Yes
+	2	No
+	7	Refused
+	9	Don't know
+
+MCQ160F - Ever told you had a stroke
+	1	Yes
+	2	No
+	7	Refused
+	9	Don't know
+
+MCQ160L - Ever told you had any liver condition
+	1	Yes
+	2	No
+	7	Refused
+	9	Don't know
+
+MCQ160M - Ever told you had thyroid problem
+	1	Yes
+	2	No
+	7	Refused
+	9	Don't know
+
+MCQ170L - Do you still have a liver condition
+	1	Yes
+	2	No
+	7	Refused
+	9	Don't know
+
+MCQ170M - Do you still have thyroid problem
+	1	Yes
+	2	No
+	7	Refused
+	9	Don't know
+
+MCQ195 - Which type of arthritis was it?
+	1	Osteoarthritis or degenerative arthritis
+	2	Rheumatoid arthritis
+	3	Psoriatic arthritis
+	4	Other
+	7	Refused
+	9	Don't know
+
+MCQ220 - Ever told you had cancer or malignancy
+	1	Yes
+	2	No
+	7	Refused
+	9	Don't know
+
+MCQ230A - What kind of cancer
+	10	Bladder
+	11	Blood	
+	12	Bone	
+	13	Brain	
+	14	Breast		
+	15	Cervix (cervical)		
+	16	Colon	
+	17	Esophagus (esophageal)		
+	18	Gallbladder
+	19	Kidney		
+	20	Larynx/ windpipe	
+	21	Leukemia	
+	22	Liver		
+	23	Lung		
+	24	Lymphoma/ Hodgkin's disease	
+	25	Melanoma	
+	26	Mouth/tongue/lip	
+	27	Nervous system	
+	28	Ovary (ovarian)	
+	29	Pancreas (pancreatic)	
+	30	Prostate	
+	31	Rectum (rectal)	
+	32	Skin (non-melanoma)		
+	33	Skin (don't know what kind)		
+	34	Soft tissue (muscle or fat)	
+	35	Stomach		
+	36	Testis (testicular)
+	37	Thyroid
+	38	Uterus (uterine)
+	39	Other
+	66	More than 3 kinds	
+	77	Refused	
+	99	Don't know
+
+MCQ230B - What kind of cancer (2nd type of cancer you have)
+	10	Bladder
+	11	Blood	
+	12	Bone	
+	13	Brain	
+	14	Breast		
+	15	Cervix (cervical)		
+	16	Colon	
+	17	Esophagus (esophageal)		
+	18	Gallbladder
+	19	Kidney		
+	20	Larynx/ windpipe	
+	21	Leukemia	
+	22	Liver		
+	23	Lung		
+	24	Lymphoma/ Hodgkin's disease	
+	25	Melanoma	
+	26	Mouth/tongue/lip	
+	27	Nervous system	
+	28	Ovary (ovarian)	
+	29	Pancreas (pancreatic)	
+	30	Prostate	
+	31	Rectum (rectal)	
+	32	Skin (non-melanoma)		
+	33	Skin (don't know what kind)		
+	34	Soft tissue (muscle or fat)	
+	35	Stomach		
+	36	Testis (testicular)
+	37	Thyroid
+	38	Uterus (uterine)
+	39	Other
+	66	More than 3 kinds	
+	77	Refused	
+	99	Don't know
+
+MCQ230C - What kind of cancer (3rd type of cancer you have)
+	10	Bladder
+	11	Blood	
+	12	Bone	
+	13	Brain	
+	14	Breast		
+	15	Cervix (cervical)		
+	16	Colon	
+	17	Esophagus (esophageal)		
+	18	Gallbladder
+	19	Kidney		
+	20	Larynx/ windpipe	
+	21	Leukemia	
+	22	Liver		
+	23	Lung		
+	24	Lymphoma/ Hodgkin's disease	
+	25	Melanoma	
+	26	Mouth/tongue/lip	
+	27	Nervous system	
+	28	Ovary (ovarian)	
+	29	Pancreas (pancreatic)	
+	30	Prostate	
+	31	Rectum (rectal)	
+	32	Skin (non-melanoma)		
+	33	Skin (don't know what kind)		
+	34	Soft tissue (muscle or fat)	
+	35	Stomach		
+	36	Testis (testicular)
+	37	Thyroid
+	38	Uterus (uterine)
+	39	Other
+	66	More than 3 kinds	
+	77	Refused	
+	99	Don't know
+
+
+MCQ230C - What kind of cancer (4th type of cancer you have) (this variable has no real data values/all missing)
+	10	Bladder
+	11	Blood	
+	12	Bone	
+	13	Brain	
+	14	Breast		
+	15	Cervix (cervical)		
+	16	Colon	
+	17	Esophagus (esophageal)		
+	18	Gallbladder
+	19	Kidney		
+	20	Larynx/ windpipe	
+	21	Leukemia	
+	22	Liver		
+	23	Lung		
+	24	Lymphoma/ Hodgkin's disease	
+	25	Melanoma	
+	26	Mouth/tongue/lip	
+	27	Nervous system	
+	28	Ovary (ovarian)	
+	29	Pancreas (pancreatic)	
+	30	Prostate	
+	31	Rectum (rectal)	
+	32	Skin (non-melanoma)		
+	33	Skin (don't know what kind)		
+	34	Soft tissue (muscle or fat)	
+	35	Stomach		
+	36	Testis (testicular)
+	37	Thyroid
+	38	Uterus (uterine)
+	39	Other
+	66	More than 3 kinds	
+	77	Refused	
+	99	Don't know
+
+MCQ300A - Close relative had heart attack?
+	1	Yes
+	2	No
+	7	Refused
+	9	Don't know
+
+MCQ300B - Close relative had asthma?
+	1	Yes
+	2	No
+	7	Refused
+	9	Don't know
+
+MCQ300C - Close relative had diabetes?
+	1	Yes
+	2	No
+	7	Refused
+	9	Don't know
+
+SMAQUEX2 - Questionnaire Mode Flag
+	1	Home Interview (18+ Yrs)
+	2	ACASI (12-17 Yrs)
+
+SMD030 - Age started smoking cigarettes regularly
+	7 - 64	Range of Values
+	0	Never smoke regularly
+	80	80 years or older
+	777	Refused
+	999	Don't know
+
+SMD057 - # cigarettes smoked per day when quit
+	2 - 90	Range of Values
+	1	1 cigarette or less
+	95	95 cigarettes or more
+	777	Refused
+	999 	Don't know
+
+SMD100FL - Cigarette Filter type
+	0	Non-filter
+	1 	Filter
+
+SMD100MN - Cigarette Menthol indicator
+	0	Non-menthol
+	1 	Menthol
+
+SMD630 - Age first smoked whole cigarette
+	7 - 17	Range of Values
+	6	6 years or less
+	77	Refused
+	99	Don't know
+
+SMD641 - # days smoked cigs during past 30 days
+	0 - 30	Range of values
+	77	Refused
+	99 	Don't know
+
+SMD650 - Avg # cigarettes/day during past 30 days
+	2 - 90	Range of values
+	1	1 cigarette or less
+	95 	95 cigarettes or more
+	777	Refused
+	999	Don't know
+
+SMQ020 - Smoked at least 100 cigarettes in life
+	1	Yes
+	2	No
+	7	Refused
+	9	Don't know
+
+SMQ040 - Do you now smoke cigarettes
+	1	Every day
+	2	Some days
+	3	Not at all
+	7	Refused
+	9	Don't know
+
+SMQ050Q - How long since quit smoking cigarettes (enter number of days, weeks, months or years)
+	1 - 90	Range of Values
+	66666	50 years or more
+	77777	Refused
+	99999	Don't know
+
+SMQ050U - Unit of measure (day/week/month/year) (following on from SMQ050Q)
+	1	Days
+	2	Weeks
+	3	Months
+	4	Years
+	7	Refused
+	9	Don't know
+
+SMQ078 - How soon after waking do you smoke
+	1	Within 5 minutes	
+	2	From 6 to 30 minutes
+	3	From more than 30 minutes to one hour		
+	4	From more than 1 hour to 2 hours	
+	5	From more than 2 hours to 3 hours	
+	6	From more than 3 hours to 4 hours
+	7	More than 4 hours
+	77	Refused	
+	99	Don't know
+
+SMQ621 - Cigarettes smoked in entire life
+	1	I have never smoked, not even a puff	
+	2	1 or more puffs but never a whole cigarette	
+	3	1 cigarette	
+	4	2 to 5 cigarettes
+	5	6 to 15 cigarettes	
+	6	16 to 25 cigarettes	
+	7	26 to 99 cigarettes	
+	8	100 or more cigarettes	
+	77	Refused	
+	99	Don't know
+
+SMQ670 - Tried to quit smoking
+	1	Yes
+	2	No
+	7	Refused
+	9	Don't know
+
+HEQ - HEQ010 - Ever told you have Hepatitis B?/HEQ030 - Ever told you have Hepatitis C?
+
+
+
+MEDS - HEQ020 - Ever prescribed meds treat Hepatitis B?/HEQ040 - Ever prescribed meds treat Hepatitis C?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
