@@ -450,11 +450,16 @@ SMQ670 - Tried to quit smoking
 	9	Don't know
 
 HEQ - HEQ010 - Ever told you have Hepatitis B?/HEQ030 - Ever told you have Hepatitis C?
-
-
+	1	Yes, I have hepatitis B or hepatitis C
+	2	No, I don't have hepatitis B or hepatitis C
+	7	Refused to answer about having hepatitis B or hepatitis C
+	9	Don't know if I have either hepatitis B or hepatitis C
 
 MEDS - HEQ020 - Ever prescribed meds treat Hepatitis B?/HEQ040 - Ever prescribed meds treat Hepatitis C?
-
+	1	Yes, I have been prescribed meds for hepatitis B or hepatitis C
+	2	No, I have not been prescribed meds for hepatitis B or hepatitis C
+	7	Refused to answer about having hepatitis B or hepatitis C
+	9	Don't know if I have hepatitis B or hepatitis C
 
 
 
