@@ -25,7 +25,7 @@ HSQ590 - Blood ever tested for HIV virus? (Current Health Status dataset)
 	7	Refused
 	9	Don't know
 
-IMQ011 - Received Hepatitis A Virus
+IMQ011 - Received Hepatitis A Vaccine
 	1	Yes, at least 2 doses
 	2	Less than 2 doses
 	3	No Doses
