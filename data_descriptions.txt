@@ -442,7 +442,7 @@ SMQ621 - Cigarettes smoked in entire life
 	8	100 or more cigarettes	
 	77	Refused	
 	99	Don't know
-
+5D
 SMQ670 - Tried to quit smoking
 	1	Yes
 	2	No
