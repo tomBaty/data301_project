@@ -449,6 +449,27 @@ SMQ670 - Tried to quit smoking
 	7	Refused
 	9	Don't know
 
+MCQ160g - Ever told you had emphysema
+	1	Yes	
+	2	No	
+	7	Refused	
+	9	Don't know	
+	.	Missing
+
+MCQ160n - Doctor ever told you that you had gout?
+	1	Yes	
+	2	No	
+	7	Refused	
+	9	Don't know	
+	.	Missing
+
+ALQ101 - Had at least 12 alcohol drinks/1 yr?
+	1	Yes	
+	2	No	
+	7	Refused
+	9	Don't know		
+	.	Missing
+
 HEQ - HEQ010 - Ever told you have Hepatitis B?/HEQ030 - Ever told you have Hepatitis C?
 	1	Yes, I have hepatitis B or hepatitis C
 	2	No, I don't have hepatitis B or hepatitis C
@@ -461,9 +482,24 @@ MEDS - HEQ020 - Ever prescribed meds treat Hepatitis B?/HEQ040 - Ever prescribed
 	7	Refused to answer about having hepatitis B or hepatitis C
 	9	Don't know if I have hepatitis B or hepatitis C
 
+Related to hep testing
 
+LBXHCR - Hepatitis C RNA (HCV-RNA)
+	1	Positive		
+	2	Negative	
+	3	Negative Screening HCV Antibody
+	.	Missing
 
+LBXHBS - Hepatitis B Surface Antibody
+	1	Positive	
+	2	Negative	
+	3	Indeterminate
+	.	Missing
 
+LBXHBC - Hepatitis B core antibody
+	1	Positive	
+	2	Negative	0	7124	
+	.	Missing
 
 
 
